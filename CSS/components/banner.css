@@ -1,0 +1,65 @@
+.banner {
+	background-image: linear-gradient(-220deg, rgba(30, 30, 30, 0.7)0%,rgba(30, 30, 30, 0.3)50%),url("../../images/animal.jpg");
+	padding: 150px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1 {
+	color: white;
+	font-size: 64px;
+	margin-bottom: 48px;
+	margin-right: 700px;
+}
+
+.banner p {
+	color: white;
+	font-size: 24px;
+	margin-bottom: 48px;
+	margin-right: 750px;
+}
+
+.banner-who {
+	background-image: linear-gradient(-220deg, rgba(30, 30, 30, 0.7)0%,rgba(30, 30, 30, 0.3)50%),url("../../images/forest.jpg");
+	padding: 150px;
+	background-size: cover;
+	background-position: center;}
+
+.banner-who h1 {
+	color: white;
+	font-size: 64px;
+	margin-bottom: 48px;
+	margin-right: 100px;
+}
+
+.banner-who p {
+	color: white;
+	font-size: 24px;
+	margin-bottom: 48px;
+	margin-right: 100px;
+}
+
+.banner-end {
+	padding-top: 5px;
+	padding-bottom: 60px;
+	background-color: #CCE3D3;
+	text-align: center;
+}
+
+.banner-end h1 {
+	color: white;
+	font-size: 64px;
+	margin-bottom: 48px;
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: center;
+}
+
+.banner-end p {
+	color: white;
+	font-size: 24px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 50px;
+	text-align: center;
+}

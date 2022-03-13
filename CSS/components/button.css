@@ -1,0 +1,29 @@
+.btn-blue {
+	text-decoration: none;
+	background-color: #48382B;
+	border-radius: 4px;
+	padding: 12px 32px;
+	color: white;
+}
+
+.btn-blue:hover {
+	background-color: white;
+	color:#48382B;
+	transition: 0.5s;
+}
+
+
+.btn-green {
+	text-decoration: none;
+	background-color: #80946F;
+	border-radius: 4px;
+	padding: 12px 32px;
+	color: white;
+	text-align: center;
+}
+
+.btn-green:hover {
+	background-color: white;
+	color:#80946F;
+	transition: 0.5s;
+}

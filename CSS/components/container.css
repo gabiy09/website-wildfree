@@ -1,0 +1,35 @@
+.container {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+@media(max-width: 760px) {
+  .container {
+  width: 500px;
+  }
+}
+
+@media(max-width: 500px) {
+  .container {
+  width: 350px;
+  }
+}
+
+	.container-body {
+	width: 800px;
+	margin: 0 auto;
+	margin-bottom: 75px;
+	}
+
+	@media(max-width: 760px) {
+  	.container-body {
+  	width: 500px;
+  	}
+	}
+
+	@media(max-width: 500px) {
+  	.container-body {
+  	width: 350px;
+  	}
+	}
+

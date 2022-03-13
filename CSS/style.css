@@ -1,0 +1,23 @@
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card-white.css");
+@import url("components/card-grid.css");
+@import url("components/header.css");
+
+body {
+	margin: 0;
+	font-family: 'Lora', serif;
+}
+
+h1	{
+	font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 64px;
+	margin-left: 290px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}

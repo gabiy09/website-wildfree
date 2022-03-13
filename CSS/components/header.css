@@ -1,0 +1,27 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  font-family: 'Lora', serif;
+}
+
+.header a {
+  text-decoration: none;
+  color: black;
+  padding: 12px 32px;
+  background-color: white;
+  border-radius: 6px;
+  font-weight: 500;
+  margin: 4px;
+}
+
+.header a:hover {
+  text-decoration: none;
+  padding: 12px 32;
+  background-color: #80946F;
+  border-radius: 6px;
+  color: white;
+  transition: 0.5s;
+  opacity: 0.8;
+}
